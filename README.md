@@ -19,7 +19,6 @@ Este repositorio contiene la presentación del periodo de dual del primer curso 
 <br> <br> <br> <br>
 
 
-
-[![](/img/viewnext.png)](https://github.com/tu_usuario/tu_repositorio/blob/main/README.md)
+[![](/img/viewnext.png)](https://www.viewnext.com/)
 
 
