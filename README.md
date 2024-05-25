@@ -14,13 +14,15 @@ Este repositorio contiene la presentación del periodo de dual del primer curso 
 
 <br> 
 
+[Presentación en canva](https://www.canva.com/design/DAGGEkgyxm8/paz5EJipbXrNDUOcowpGxg/view?utm_content=DAGGEkgyxm8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 [Presentaciones duales de 1º DAW y 1º DAM del curso 2023 / 2024](https://github.com/CPIFPAlanTuring/presentaciones-duales-dam1-daw1-2024)
 
-<br> <br> <br> <br>
+ <br> <br>
 
 [![](/img/viewnext.png)](https://www.viewnext.com/)
 
-<br> <br> <br> <br>
+ <br> <br>
 
 [![](/img/Alan%20Turing.png)](https://fpalanturing.es/)
 
