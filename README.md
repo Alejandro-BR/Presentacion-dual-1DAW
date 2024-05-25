@@ -18,7 +18,10 @@ Este repositorio contiene la presentación del periodo de dual del primer curso 
 
 <br> <br> <br> <br>
 
-
 [![](/img/viewnext.png)](https://www.viewnext.com/)
+
+<br> <br> <br> <br>
+
+[![](/img/Alan%20Turing.png)](https://fpalanturing.es/)
 
 
